@@ -27,9 +27,3 @@ Just edit the content and you are ready to go 🚀
 - Easy to edit and customize
 - Lightweight and fast
 
----
-
-## How to use
-
-1. Clone the repository:
-
